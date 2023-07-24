@@ -1,0 +1,49 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/number1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/operator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/number1"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/number2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/operator"
+        android:textSize="24sp" />
+
+    <Button
+        android:text="0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button0"
+        android:layout_below="@id/number2"
+        android:layout_marginTop="16dp"
+        android:onClick="onButtonClick" />
+  
+     <Button
+    android:text="Refresh"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/buttonRefresh"
+    android:layout_below="@id/buttonEqual"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="16dp"
+    android:onClick="onRefreshButtonClick" />
+
+    <!-- Add buttons for 1-9, dot, add, subtract, multiply, division, and equal -->
+    <!-- Make sure to set onClick attribute for each button -->
+
+</RelativeLayout>
