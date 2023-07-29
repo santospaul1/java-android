@@ -1,0 +1,19 @@
+# To specify the layout during development
+
+<?xml version="1.0" encoding="UTF-8"?>
+<ui>
+  <screen>
+    <statusbar>
+      <text>3G</text>
+      <time>6:13 PM</time>
+    </statusbar>
+    <header>
+      <text>Message Launcher</text>
+    </header>
+    <form>
+      <input type="text" name="name" placeholder="Your Name">
+      <input type="email" name="email" placeholder="Your Email">
+      <input type="submit" value="Praise">
+    </form>
+  </screen>
+</ui>
