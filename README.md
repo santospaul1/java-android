@@ -1,4 +1,4 @@
-Java Android Applications
+<h1>Java Android Applications</h1>
 This repository contains several Java Android applications showcasing different features and functionalities of the Android platform. Each application is contained in its separate folder, and this ReadMe provides an overview of the various projects.
 
 Requirements
