@@ -27,6 +27,7 @@ To run these applications, you need:
 </ol>
 
 <h2>Available Applications</h2>
+
 <h3>Spinner Example</h3>
 
 A simple Android application demonstrating the usage of a Spinner control, allowing users to select an item from a drop-down list.
@@ -36,17 +37,20 @@ Location: SpinnerExample
 <h3>EditText Example</h3>
 
 A basic Android app illustrating the use of an EditText control, enabling users to enter and modify text.
+
 Location: EditTextExample
-SMS App
+
+<h3>SMS App</h3>
 
 An Android application that allows users to send SMS messages to specified recipients.
 
 Location: SMSApp
-Calculator App
+
+<h3>Calculator App</h3>
 
 A calculator application that performs basic arithmetic operations (addition, subtraction, multiplication, division).
+
 Location: CalculatorApp
-... (Add any other application folders along with their descriptions if available)
 
 <h1>Usage</h1>
 Each application folder contains its own ReadMe and source code. Refer to the specific ReadMe file within each folder for detailed instructions on how to run and use each application.
