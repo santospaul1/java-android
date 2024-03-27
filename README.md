@@ -8,7 +8,7 @@ To run these applications, you need:
 <ul>
 <li>Android Studio (version 4.0 or later)</li>
   
-<li>Android device or emulator with Android OS (version 4.0 or later)</li>
+<li>Android device or emulator with Android OS (version 4.0 or later version)</li>
 </ul>
 
 <h2>Getting Started</h2>
